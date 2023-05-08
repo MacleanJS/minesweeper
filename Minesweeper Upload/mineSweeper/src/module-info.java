@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author macst
+ *
+ */
+module mineSweeper {
+}
